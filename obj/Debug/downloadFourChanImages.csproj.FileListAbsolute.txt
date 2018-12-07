@@ -1,0 +1,11 @@
+C:\Users\akuma\source\repos\Scraping\downloadFourChanImages\bin\Debug\downloadFourChanImages.exe.config
+C:\Users\akuma\source\repos\Scraping\downloadFourChanImages\bin\Debug\downloadFourChanImages.exe
+C:\Users\akuma\source\repos\Scraping\downloadFourChanImages\bin\Debug\downloadFourChanImages.pdb
+C:\Users\akuma\source\repos\Scraping\downloadFourChanImages\bin\Debug\HtmlAgilityPack.dll
+C:\Users\akuma\source\repos\Scraping\downloadFourChanImages\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\akuma\source\repos\Scraping\downloadFourChanImages\bin\Debug\HtmlAgilityPack.xml
+C:\Users\akuma\source\repos\Scraping\downloadFourChanImages\obj\Debug\downloadFourChanImages.csprojAssemblyReference.cache
+C:\Users\akuma\source\repos\Scraping\downloadFourChanImages\obj\Debug\downloadFourChanImages.csproj.CoreCompileInputs.cache
+C:\Users\akuma\source\repos\Scraping\downloadFourChanImages\obj\Debug\downloadFourChanImages.csproj.CopyComplete
+C:\Users\akuma\source\repos\Scraping\downloadFourChanImages\obj\Debug\downloadFourChanImages.exe
+C:\Users\akuma\source\repos\Scraping\downloadFourChanImages\obj\Debug\downloadFourChanImages.pdb
